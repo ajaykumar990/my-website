@@ -15,7 +15,7 @@ h2{
   text-align:center;
   font-size:40px;
   color:rgb(240, 12, 12)
-  animation: slideDown 1.25s ease-in-out;
+  animation: slideDown 1.5s ease-in-out;
 }
 h3{
     color:rgba(41, 192, 59, 0.972);
@@ -61,3 +61,4 @@ ul.horizontal {
 }
 
 u
+
