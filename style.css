@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif,arial;
-  background:url('bg4.jpeg')no-repeat center center fixed;
+  background:url('papers/bg4.jpeg')no-repeat center center fixed;
   background-size: cover;
   height:100vh;
 }
@@ -96,3 +96,4 @@ ul.horizontal {
   }
 
 }
+
